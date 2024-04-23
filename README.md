@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nolan Boate - @ImonaBOATE
-- 👀 I’m interested in Big Data and Machine Learning. I am taking analytics and programming courses through Codecademy and Coursera. 
 - 🌱 I have an Environmental Engineering degree (Bachelor of Applied Sciences) from the University of Waterloo, a top Engineering school in Canada.
 - 📫 How to reach me: noboate@gmail.com
 -                     LinkedIn - https://www.linkedin.com/in/nolan-boate/ 
